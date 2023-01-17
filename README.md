@@ -22,3 +22,6 @@ in which I learn a little of each programming language and also some structures.
 </p>
 
 ---
+
+<div align="center">˖⁺‧₊˚ 💗 ˚₊‧⁺˖ <br>⬇ Check out my repository ⬇</div>
+
