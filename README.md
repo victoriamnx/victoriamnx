@@ -9,7 +9,8 @@ Here you will see everything I studied in programming and how I am evolving
 
 **💕 What I've been studying:**
 
-I currently study on the Udemy platform and take the Modern Web course, in which I learn a little of each programming language and also some structures.
+I currently study on the Udemy platform and take the Modern Web course, <br>
+in which I learn a little of each programming language and also some structures.
 
 
 **🌸 Languages and Tools:**
