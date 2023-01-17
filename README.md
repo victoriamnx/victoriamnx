@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hii,<a href="https://www.linkedin.com/in/vict%C3%B3ria-marques-b52495222/" target="_blank"> nice to see you!!</a> <img
+src="https://i.ibb.co/KhKNC1g/zc-Xoe8rni-1.gif" alt="zc-Xoe8rni-1" height="32" /></h1>
 
-<!--
-**victoriamnx/victoriamnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://imgbb.com/"><img align="right" src="https://i.ibb.co/Qv1mtw4/DPrk.gif" alt="giphy" width="250" height="200"></a>
 
-Here are some ideas to get you started:
+My name is Victória and I am currently a multimedia technician and also a programming student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you will see everything I studied in programming and how I am evolving
+
+**💕 What I've been studying:**
+
+I currently study on the Udemy platform and take the Modern Web course, in which I learn a little of each programming language and also some structures.
+
+
+**🌸 Languages and Tools:**
+
+<p>
+<!--  -->
+<a href="https://ibb.co/zbFsrmw"><img src="https://i.ibb.co/bLF1P6n/css-3.png" alt="css-3" height="40" style="vertical-align:down; margin:4px"></a>
+<a href="https://ibb.co/Wg7RjCB"><img src="https://i.ibb.co/Ch4SDLV/html-1.png" alt="html-1" height="40" style="vertical-align:down; margin:4px"></a>
+</p>
+
+---
