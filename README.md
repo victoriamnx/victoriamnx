@@ -23,4 +23,3 @@ At the moment my study is focused on learning everything about <br> HTML and CSS
 ---
 
 <div align="center">˖⁺‧₊˚ 💗 ˚₊‧⁺˖ <br>⬇ Check out my repository ⬇</div>
-
