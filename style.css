@@ -1,0 +1,22 @@
+a {
+  color: hsl(332, 100%, 89%);
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  color: hsl(333, 80%, 67%);
+  text-decoration: none;
+}
+
+a:hover {
+  color: hsl(333, 100%, 88%);
+  text-decoration: underline;
+}
+
+a:active {
+  color: hsl(333, 100%, 88%);
+  text-decoration: underline;
+}
