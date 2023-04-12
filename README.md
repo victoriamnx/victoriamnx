@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css" />
 
-<h1 align="center">Hii,<a href="https://www.linkedin.com/in/vict%C3%B3ria-marques-b52495222/" target="_blank" title="Ir para o LinkedIn"> nice to see you!!</a> <img
+<h1 align="center">Hii,<a href="https://www.linkedin.com/in/vict%C3%B3ria-marques-b52495222/" target="_blank" title="Ir para o LinkedIn - LinkedIn"> nice to see you!!</a> <img
 src="https://i.ibb.co/KhKNC1g/zc-Xoe8rni-1.gif" alt="zc-Xoe8rni-1" height="32" /></h1>
 
 <a href="https://imgbb.com/"><img align="right" src="https://i.ibb.co/Qv1mtw4/DPrk.gif" alt="giphy" width="260" height="230"></a>
