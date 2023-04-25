@@ -1,26 +1,32 @@
 <link rel="stylesheet" href="style.css" />
 
-<h1 align="center">Hii,<a href="https://www.linkedin.com/in/victoriamnx/" target="_blank" title="Ir para o LinkedIn - Go to LinkedIn"> nice to see you!!</a> <img
-src="https://i.ibb.co/KhKNC1g/zc-Xoe8rni-1.gif" alt="zc-Xoe8rni-1" height="32" /></h1>
+<h1 align="center">Hii, nice to see you!! <img src="https://i.ibb.co/KhKNC1g/zc-Xoe8rni-1.gif" alt="Gif Paw" height="32" /></h1>
 
-<a href="https://imgbb.com/"><img align="right" src="https://i.ibb.co/Qv1mtw4/DPrk.gif" alt="giphy" width="260" height="230"></a>
+<img align="right" src="https://user-images.githubusercontent.com/96449803/234378981-1491576d-bb4a-4baf-8095-18093a4458ac.svg" alt="SVG Animation" width="300" height="350">
 
-My name is Victória and I am currently a multimedia technician and also a programming student.
-
+My name is Victória and I am currently a multimedia technician and also a programming student.<Br>
 Here you will see everything I studied in programming and how I am evolving.
 
-**💕 What I've been studying:**
+**🌸 What I've been studying:**
 
 At the moment my study is focused on learning everything about <br> HTML and CSS, and I'm gradually introducing JavaScript in my studies.
 
-**🌸 Languages and Tools:**
+**💕 Languages and Tools:**
 
 <p>
-<!--  -->
-<a href="https://ibb.co/zbFsrmw"><img src="https://i.ibb.co/bLF1P6n/css-3.png" alt="css-3" height="40" style="vertical-align:down; margin:4px"></a>
-<a href="https://ibb.co/Wg7RjCB"><img src="https://i.ibb.co/Ch4SDLV/html-1.png" alt="html-1" height="40" style="vertical-align:down; margin:4px"></a>
+<img src="https://i.ibb.co/bLF1P6n/css-3.png" alt="CSS3" height="40" style="vertical-align:down; margin:4px"></a>
+<img src="https://i.ibb.co/Ch4SDLV/html-1.png" alt="HTML5" height="40" style="vertical-align:down; margin:4px"></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" style="vertical-align:down; margin:4px">
 </p>
+
+**🎀 Social Media:**
+
+<div> 
+  <a href="https://www.instagram.com/victoriamnx/" target="_blank" title="Ir para o Instagram - Go to Instagram"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank" title="Ir para o Discord - Go to Discord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/victoriamnx/" target="_blank" title="Ir para o LinkedIn - Go to LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ---
 
-<div align="center">˖⁺‧₊˚ 💗 ˚₊‧⁺˖ <br>⇩ Check out my repository ⇩</div>
+<div align="center">˖⁺‧₊˚ 💗 ˚₊‧⁺˖ <br> Check out my repository</div>
