@@ -4,8 +4,9 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/96449803/234378981-1491576d-bb4a-4baf-8095-18093a4458ac.svg" alt="SVG Animation" width="300" height="350">
 
-My name is Victória and I am currently a multimedia technician and also a programming student.<Br>
+My name is Victoria and I am currently a multimedia technician and a systems analysis and development student at Unifor (University of Fortaleza).<Br>
 Here you will see everything I studied in programming and how I am evolving.
+
 
 **🌸 What I've been studying:**
 
