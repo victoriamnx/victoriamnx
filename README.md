@@ -10,7 +10,7 @@ Here you will see everything I studied in programming and how I am evolving.
 
 **🌸 What I've been studying:**
 
-At the moment my study is focused on learning <br> JavaScript, and I'm gradually introducing other languages and frameworks.
+At the moment my study is focused on learning JavaScript, <br> and I'm gradually introducing other languages and frameworks.
 
 **💕 Languages and Tools:**
 
