@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css" />
 
-<h1 align="center">Hii, nice to see you!! <img src="https://i.ibb.co/KhKNC1g/zc-Xoe8rni-1.gif" alt="Gif Paw" height="32" /></h1>
+<h1 align="center">Hii, nice to see you!! <img src="https://i.ibb.co/KhKNC1g/zc-Xoe8rni-1.gif" alt="Gif Paw" height="32"/></h1>
 
 <img align="right" src="https://user-images.githubusercontent.com/96449803/234378981-1491576d-bb4a-4baf-8095-18093a4458ac.svg" alt="SVG Animation" width="300" height="350">
 
@@ -10,7 +10,7 @@ Here you will see everything I studied in programming and how I am evolving.
 
 **🌸 What I've been studying:**
 
-At the moment my study is focused on learning everything about <br> HTML and CSS, and I'm gradually introducing JavaScript in my studies.
+At the moment my study is focused on learning <br> JavaScript, and I'm gradually introducing other languages and frameworks.
 
 **💕 Languages and Tools:**
 
