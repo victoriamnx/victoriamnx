@@ -12,7 +12,7 @@ Here you will see everything I studied in programming and how I am evolving.
 
 At the moment my study is focused on learning JavaScript, <br> and I'm gradually introducing other languages and frameworks.
 
-**💕 Languages and Tools:**
+**💗 Languages and Tools:**
 
 <p>
 <img src="https://i.ibb.co/bLF1P6n/css-3.png" alt="CSS3" height="40" style="vertical-align:down; margin:4px"></a>
