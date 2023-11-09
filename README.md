@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css" />
 
-<h1 align="center">Hii, nice to see you!! <img src="https://i.ibb.co/KhKNC1g/zc-Xoe8rni-1.gif" alt="Gif Paw" height="32"/></h1>
+<h1 align="center">Hii, nice to see you!! <img src="https://i.ibb.co/ykw1xMB/zc-Xoe8rni.gif" alt="Gif Paw" height="32"/></h1>
 
 <img align="right" src="https://user-images.githubusercontent.com/96449803/234378981-1491576d-bb4a-4baf-8095-18093a4458ac.svg" alt="SVG Animation" width="300" height="350">
 
