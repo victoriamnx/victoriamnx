@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=FFC8DD&text=♡&fontColor=fff&height=200&section=header&animation=twinkling"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFAFCC&size=35&center=true&vCenter=true&width=1000&lines=Hii,+welcome+to+my+github!;My+name+is+Victoria+❤;I'm+18+years+old;I'm+from+Brazil;I+am+a+S.A.D+student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFAFCC&size=35&center=true&vCenter=true&width=1000&lines=Hii,+nice+to+see+you!;My+name+is+Victoria+;I'm+18+years+old;I'm+from+Brazil;Be+welcome!)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victoriamnx&show_icons=true&count_private=true&hide_border=true&title_color=FFAFCC&icon_color=FFAFCC&text_color=c9d1d9&bg_color=0d1117" alt="Victoria Nogueira Marques github stats" /> 
@@ -24,5 +24,3 @@
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victoriamnx&bg_color=0d1117&color=FFAFCC&line=FFAFCC&point=FFAFCC&area=true&hide_border=true)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFC8DD&height=120&section=footer"/>
