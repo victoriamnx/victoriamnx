@@ -1,33 +1,26 @@
-<link rel="stylesheet" href="style.css" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFC8DD&height=120&section=header"/>
 
-<h1 align="center">Hii, nice to see you!! <img src="https://i.ibb.co/ykw1xMB/zc-Xoe8rni.gif" alt="Gif Paw" height="32"/></h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFAFCC&size=35&center=true&vCenter=true&width=1000&lines=Hii,+welcome+to+my+github!;My+name+is+Victoria+❤;I'm+18+years+old;I'm+from+Brazil;I+am+a+S.A.D+student)
 
-<img align="right" src="https://user-images.githubusercontent.com/96449803/234378981-1491576d-bb4a-4baf-8095-18093a4458ac.svg" alt="SVG Animation" width="300" height="350">
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victoriamnx&show_icons=true&count_private=true&hide_border=true&title_color=FFAFCC&icon_color=FFAFCC&text_color=c9d1d9&bg_color=0d1117" alt="Victoria Nogueira Marques github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriamnx&layout=compact&hide_border=true&title_color=FFAFCC&text_color=c9d1d9&bg_color=0d1117" />
 
-My name is Victoria and I am currently a multimedia technician and a systems analysis and development student at Unifor (University of Fortaleza).<Br>
-Here you will see everything I studied in programming and how I am evolving.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-BDE0FE?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/victoriamnx/)
+[![Instagram](https://img.shields.io/badge/-Instagram-CDB4DB?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/victoriamnx/)
 
-
-**🌸 What I've been studying:**
-
-At the moment my study is focused on learning JavaScript, <br> and I'm gradually introducing other languages and frameworks.
-
-**💗 Languages and Tools:**
-
-<p>
-<img src="https://i.ibb.co/bLF1P6n/css-3.png" alt="CSS3" height="40" style="vertical-align:down; margin:4px"></a>
-<img src="https://i.ibb.co/Ch4SDLV/html-1.png" alt="HTML5" height="40" style="vertical-align:down; margin:4px"></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" style="vertical-align:down; margin:4px">
-</p>
-
-**🎀 Social Media:**
-
-<div> 
-  <a href="https://www.instagram.com/victoriamnx/" target="_blank" title="Ir para o Instagram - Go to Instagram"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank" title="Ir para o Discord - Go to Discord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/victoriamnx/" target="_blank" title="Ir para o LinkedIn - Go to LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
----
+### Studying in this moment:
+<div align="center">
 
-<div align="center">˖⁺‧₊˚ 💗 ˚₊‧⁺˖ <br> Check out my repository</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-CDB4DB?style=for-the-badge&logo=javascript&logoColor=FFF)
+[![Git](https://img.shields.io/badge/Git-FFC8DD?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-FFAFCC?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
+![HTML5](https://img.shields.io/badge/HTML5-BDE0FE?style=for-the-badge&logo=html5&logoColor=FFF)
+![CSS](https://img.shields.io/badge/CSS3-A2D2FF?style=for-the-badge&logo=css3&logoColor=FFF)
+</div>
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victoriamnx&bg_color=0d1117&color=FFAFCC&line=FFAFCC&point=FFAFCC&area=true&hide_border=true)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFC8DD&height=120&section=footer"/>
