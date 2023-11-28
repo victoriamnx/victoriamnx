@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFC8DD&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=FFC8DD&text=♡&fontColor=fff&height=200&section=header&animation=twinkling"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFAFCC&size=35&center=true&vCenter=true&width=1000&lines=Hii,+welcome+to+my+github!;My+name+is+Victoria+❤;I'm+18+years+old;I'm+from+Brazil;I+am+a+S.A.D+student)
 
