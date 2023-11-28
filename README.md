@@ -5,7 +5,12 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victoriamnx&show_icons=true&count_private=true&hide_border=true&title_color=FFAFCC&icon_color=FFAFCC&text_color=c9d1d9&bg_color=0d1117" alt="Victoria Nogueira Marques github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriamnx&layout=compact&hide_border=true&title_color=FFAFCC&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
+### Social media:
+
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-BDE0FE?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/victoriamnx/)
 [![Instagram](https://img.shields.io/badge/-Instagram-CDB4DB?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/victoriamnx/)
 
