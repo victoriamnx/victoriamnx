@@ -12,13 +12,15 @@
 </div>
 
 ### Studying at this moment:
+
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-CDB4DB?style=for-the-badge&logo=javascript&logoColor=FFF)
-[![Git](https://img.shields.io/badge/Git-FFC8DD?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) 
+[![Git](https://img.shields.io/badge/Git-FFC8DD?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-FFAFCC?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
 ![HTML5](https://img.shields.io/badge/HTML5-BDE0FE?style=for-the-badge&logo=html5&logoColor=FFF)
 ![CSS](https://img.shields.io/badge/CSS3-A2D2FF?style=for-the-badge&logo=css3&logoColor=FFF)
+
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victoriamnx&bg_color=0d1117&color=FFAFCC&line=FFAFCC&point=FFAFCC&area=true&hide_border=true)
