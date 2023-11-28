@@ -11,7 +11,7 @@
 
 </div>
 
-### Studying in this moment:
+### Studying at this moment:
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-CDB4DB?style=for-the-badge&logo=javascript&logoColor=FFF)
