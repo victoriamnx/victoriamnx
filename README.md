@@ -25,6 +25,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-ffafcc?style=for-the-badge&logo=html5&logoColor=FFF)
 ![CSS](https://img.shields.io/badge/CSS3-bde0fe?style=for-the-badge&logo=css3&logoColor=FFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-a2d2ff?style=for-the-badge&logo=javascript&logoColor=FFF)
+![Tailwind](https://img.shields.io/badge/tailwindcss-a2d2ff?style=for-the-badge&logo=tailwindcss)
 
 </div>
 
