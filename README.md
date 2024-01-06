@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=69524e&text=♡&fontColor=fff&height=200&section=header&animation=twinkling"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=69524e&size=35&center=true&vCenter=true&width=1000&lines=Hii,+nice+to+see+you!;My+name+is+Victoria+;I'm+18+years+old;I'm+from+Brazil;Be+welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hii,+nice+to+see+you!;My+name+is+Victoria+;I'm+18+years+old;I'm+from+Brazil;Be+welcome!)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victoriamnx&show_icons=true&count_private=true&hide_border=true&title_color=69524e&icon_color=69524e&text_color=c9d1d9&bg_color=0d1117" alt="Victoria Nogueira Marques github stats" /> 
