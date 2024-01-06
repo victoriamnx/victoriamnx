@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=69524e&text=♡&fontColor=fff&height=200&section=header&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=97573a&text=♡&fontColor=fff&height=200&section=header&animation=twinkling"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hii,+nice+to+see+you!;My+name+is+Victoria+;I'm+18+years+old;I'm+from+Brazil;Be+welcome!)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victoriamnx&show_icons=true&count_private=true&hide_border=true&title_color=69524e&icon_color=69524e&text_color=c9d1d9&bg_color=0d1117" alt="Victoria Nogueira Marques github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriamnx&layout=compact&hide_border=true&title_color=69524e&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victoriamnx&show_icons=true&count_private=true&hide_border=true&title_color=97573a&icon_color=97573a&text_color=c9d1d9&bg_color=0d1117" alt="Victoria Nogueira Marques github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriamnx&layout=compact&hide_border=true&title_color=97573a&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ### Social media:
@@ -29,4 +29,4 @@
 
 </div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victoriamnx&bg_color=0d1117&color=69524e&line=69524e&point=69524e&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victoriamnx&bg_color=0d1117&color=97573a&line=97573a&point=97573a&area=true&hide_border=true)
